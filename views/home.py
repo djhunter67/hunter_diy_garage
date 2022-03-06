@@ -4,14 +4,14 @@ from fastapi_chameleon import template
 router = APIRouter()
 
 
-@app.get('/')
-@template(template_file='home/index.html')
+@router.get('/')
+@template()
 def index(user: str = 'anon'):
     
     return {
         "user_name": user
     }
 
-@app.get("/about")
+@router.get("/about")
 def about():
     return {}
