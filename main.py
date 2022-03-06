@@ -1,18 +1,20 @@
+from turtle import home
+from fastapi_chameleon import  global_init
 import fastapi
 import uvicorn
-
+from views import
+from views import (
+    home,
+    account,
+)
 
 app = fastapi.FastAPI()
+global_init('templates')
 
 
-@app.get('/')
-def index():
-    content = """
-    <h1 style="color: blue"> FASTAPI project </h1>
+app.include_router(home.router)
+app.include_router(account.router)
 
-    <p> by Christerpher Hunter </p>
-    """
-    return fastapi.responses.HTMLResponse(content)
 
 if __name__ == '__main__':
     uvicorn.run(app)
