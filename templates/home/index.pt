@@ -1,20 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
-</head>
-<body>
-    <h1>Christerpher.com</h1>
+<div metal:use-macro="load: ../shared/_layout.pt">
 
-    <div>User: ${user_name}</div>
 
-    <ul>
-        <li>Know Idea</li>
-        <li>What This</li>
-        <li>Site is ABOUT!</li>
-    </ul>
-</body>
-</html>
+    <div metal:fill-slot="content" tal:omit-tag="True">
+
+        <div>User: ${user_name}</div>
+        <ul>
+            <li>Know Idea</li>
+            <li>What This</li>
+            <li>Site is ABOUT!</li>
+        </ul>
+    </div>
+</div>

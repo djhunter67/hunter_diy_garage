@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hunter DIY Garage</title>
+    <style>
+        body {
+            background-color: goldenrod;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Hunter DIY Garage Site</h1>
+    <div>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+    </div>
+    <br>
+    <div class="main-content">
+        <div metal:define-slot="content" tal:omit-tag="True">No Content</div>
+    </div>
+
+    <footer>
+        Footer: Thanks for visiting, contact me at: <br>
+        <br>
+        twitter: @hunter_diy
+        facebook: ...
+    </footer>
+</body>
+
+</html>
