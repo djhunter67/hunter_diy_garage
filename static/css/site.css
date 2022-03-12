@@ -1,4 +1,19 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito:400,700");
+.hero.has-background {
+  position: relative;
+  overflow: hidden;
+}
+.hero-background {
+  position: absolute;
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+  height: 100%;
+}
+.hero-background.is-transparent {
+  opacity: 0.3;
+}
+
 /* Bulma Utilities */
 .file-cta,
 .file-name, .select select, .textarea, .input, .button {

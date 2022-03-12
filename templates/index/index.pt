@@ -3,11 +3,14 @@
 
     <div metal:fill-slot="content" tal:omit-tag="True">
 
-        <div>User: ${user_name}</div>
-        <ul>
-            <li>Know Idea</li>
-            <li>What This</li>
-            <li>Site is ABOUT!</li>
-        </ul>
+        <div class="hero is-fullheight is-primary has-background">
+            <img src="../../static/img/hero_img.jpeg" alt="Auto Technician" class="hero-background is-transparent">
+            <div class="hero-body">
+                <div class="container">
+                    <h1 class="title">Hunter DIY Garage</h1>
+                    <h3 class="subtitle">Your trust goes as far as your hands</h3>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
