@@ -7,3 +7,11 @@ class IndexViewModel(ViewModelBase):
         super().__init__(request)
 
         self.user_name: str = "Christerpher"
+
+class AccountViewModel(ViewModelBase):
+
+    def __init__(self, request: Request) -> None:
+        super().__init__(request)
+
+        self.account = "templates/account/account.pt"
+        

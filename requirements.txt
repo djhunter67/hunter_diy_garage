@@ -4,11 +4,13 @@ asgiref==3.5.0
 autopep8==1.6.0
 Chameleon==3.9.1
 click==8.0.4
+colorama==0.4.4
 fastapi==0.75.0
 fastapi-chameleon==0.1.12
 h11==0.13.0
 idna==3.3
 mypy-extensions==0.4.3
+nodeenv==1.6.0
 pathspec==0.9.0
 platformdirs==2.5.1
 pycodestyle==2.8.0

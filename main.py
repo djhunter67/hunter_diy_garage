@@ -1,11 +1,30 @@
+from datetime import datetime
+
 import fastapi
 import fastapi_chameleon
 import uvicorn
+from colorama import Fore as F
 from starlette.staticfiles import StaticFiles
+
+R = F.RESET
 
 from views import account, index
 
 app = fastapi.FastAPI()
+
+
+@app.on_event("shutdown")
+def shutdown_event():
+    dt_string = datetime.now().strftime("%d/%b/%Y %H:%M:%S")
+    with open("logs/log/info.log", mode="a") as log:
+        log.write(f"{dt_string}{F.YELLOW} Application shutdown{R}\n")
+
+
+@app.on_event("startup")
+def shutdown_event():
+    dt_string = datetime.now().strftime("%d/%b/%Y %H:%M:%S")
+    with open("logs/log/info.log", mode="a") as log:
+        log.write(f"{dt_string}{F.GREEN} Application startup{R}\n")
 
 
 def main():
@@ -29,6 +48,8 @@ def configure():
     @app.get("/favicon.ico")
     def favicon():
         return fastapi.responses.FileResponse(favicon_path)
+
+    shutdown_event()
 
 
 def configure_templates():
