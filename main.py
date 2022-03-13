@@ -1,8 +1,10 @@
-from concurrent.futures import thread
+import gzip
+from fastapi.routing import APIRoute
+from fastapi import Body, FastAPI, Request, Response, responses
+from typing import Callable, List
 from views import account, index
 from datetime import datetime
 
-import fastapi
 import fastapi_chameleon
 import uvicorn
 from colorama import Fore as F
@@ -12,7 +14,7 @@ import logging
 R = F.RESET
 
 
-app = fastapi.FastAPI()
+app = FastAPI()
 
 
 @app.on_event("shutdown")
@@ -29,6 +31,27 @@ def shutdown_event():
     with open("logs/log/logFile.log", encoding="utf-8", mode="a") as log:
         log.write(
             f"{F.CYAN}USER_INFO:{R} {dt_string}{F.GREEN} Application startup{R}\n")
+
+
+class GzipRequest(Request):
+    async def body(self) -> bytes:
+        if not hasattr(self, "_body"):
+            body = await super().body()
+            if "gzip" in self.headers.getlist("Content-Encoding"):
+                body = gzip.decompress(body)
+            self._body = body
+        return self._body
+
+
+class GzipRoute(APIRoute):
+    def get_route_handler(self) -> Callable:
+        original_route_handler = super().get_route_handler()
+
+        async def custom_route_handler(request: Request) -> Response:
+            request = GzipRequest(request.scope, request.receive)
+            return await original_route_handler(request)
+
+        return custom_route_handler
 
 
 def main():
@@ -51,7 +74,7 @@ def configure():
 
     @app.get("/favicon.ico")
     def favicon():
-        return fastapi.responses.FileResponse(favicon_path)
+        return responses.FileResponse(favicon_path)
 
     logging.basicConfig(
         filename="logs/log/logFile.log",
@@ -60,7 +83,7 @@ def configure():
         format="%(asctime)s %(message)s",
         datefmt=f"{datetime.now().strftime('%d/%b/%Y %H:%M:%S')}")
 
-    logging.exception=True
+    logging.exception = True
 
     shutdown_event()
 
