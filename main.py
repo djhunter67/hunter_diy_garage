@@ -14,9 +14,6 @@ import logging
 R = F.RESET
 
 
-app = FastAPI()
-
-
 @app.on_event("shutdown")
 def shutdown_event():
     dt_string = datetime.now().strftime("%d/%b/%Y %H:%M:%S")
@@ -52,6 +49,10 @@ class GzipRoute(APIRoute):
             return await original_route_handler(request)
 
         return custom_route_handler
+
+
+app = FastAPI()
+app.router.route_class = GzipRoute
 
 
 def main():
