@@ -1,3 +1,5 @@
+from concurrent.futures import thread
+from views import account, index
 from datetime import datetime
 
 import fastapi
@@ -5,10 +7,10 @@ import fastapi_chameleon
 import uvicorn
 from colorama import Fore as F
 from starlette.staticfiles import StaticFiles
+import logging
 
 R = F.RESET
 
-from views import account, index
 
 app = fastapi.FastAPI()
 
@@ -16,15 +18,17 @@ app = fastapi.FastAPI()
 @app.on_event("shutdown")
 def shutdown_event():
     dt_string = datetime.now().strftime("%d/%b/%Y %H:%M:%S")
-    with open("logs/log/info.log", mode="a") as log:
-        log.write(f"{dt_string}{F.YELLOW} Application shutdown{R}\n")
+    with open("logs/log/logFile.log", encoding="utf-8", mode="a") as log:
+        log.write(
+            f"{F.CYAN}USER_INFO:{R} {dt_string}{F.YELLOW} Application shutdown{R}\n")
 
 
 @app.on_event("startup")
 def shutdown_event():
     dt_string = datetime.now().strftime("%d/%b/%Y %H:%M:%S")
-    with open("logs/log/info.log", mode="a") as log:
-        log.write(f"{dt_string}{F.GREEN} Application startup{R}\n")
+    with open("logs/log/logFile.log", encoding="utf-8", mode="a") as log:
+        log.write(
+            f"{F.CYAN}USER_INFO:{R} {dt_string}{F.GREEN} Application startup{R}\n")
 
 
 def main():
@@ -48,6 +52,15 @@ def configure():
     @app.get("/favicon.ico")
     def favicon():
         return fastapi.responses.FileResponse(favicon_path)
+
+    logging.basicConfig(
+        filename="logs/log/logFile.log",
+        encoding='utf-8',
+        level=logging.WARNING,
+        format="%(asctime)s %(message)s",
+        datefmt=f"{datetime.now().strftime('%d/%b/%Y %H:%M:%S')}")
+
+    logging.exception=True
 
     shutdown_event()
 

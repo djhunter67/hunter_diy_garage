@@ -1,0 +1,710 @@
+13/Mar/2022 18:12:03[32m Application startup[39m
+INFO:uvicorn.error:Will watch for changes in these directories: ['/home/djhunter67/dev/personal_proj/hunter_diy_garage']
+INFO:uvicorn.error:Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Started reloader process [6546] using statreload
+13/Mar/2022 18:12:03[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+13/Mar/2022 18:12:03[32m Application startup[39m
+INFO:uvicorn.error:Started server process [6548]
+INFO:uvicorn.error:Waiting for application startup.
+13/Mar/2022 18:12:03[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+13/Mar/2022 18:12:07[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [6548]
+13/Mar/2022 18:12:08[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+13/Mar/2022 18:12:08[32m Application startup[39m
+INFO:uvicorn.error:Started server process [6608]
+INFO:uvicorn.error:Waiting for application startup.
+13/Mar/2022 18:12:08[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+13/Mar/2022 18:13:49[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [6608]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36m13/Mar/2022 18:13:56[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36m13/Mar/2022 18:13:56[32m Application startup[39m
+INFO:uvicorn.error:Started server process [7113]
+INFO:uvicorn.error:Waiting for application startup.
+[36m13/Mar/2022 18:13:56[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+13/Mar/2022 18:13:58[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7113]
+[36mUSER13/Mar/2022 18:13:58[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER13/Mar/2022 18:13:58[32m Application startup[39m
+INFO:uvicorn.error:Started server process [7163]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER13/Mar/2022 18:13:58[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+13/Mar/2022 18:14:00[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7163]
+[36mUSER_INFO:13/Mar/2022 18:14:01[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:13/Mar/2022 18:14:01[32m Application startup[39m
+INFO:uvicorn.error:Started server process [7203]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:13/Mar/2022 18:14:01[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+13/Mar/2022 18:14:03[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7203]
+[36mUSER_INFO:[39m13/Mar/2022 18:14:03[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:14:03[32m Application startup[39m
+INFO:uvicorn.error:Started server process [7237]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:14:03[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+13/Mar/2022 18:14:04[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7237]
+[36mUSER_INFO:[39m13/Mar/2022 18:14:05[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:14:05[32m Application startup[39m
+INFO:uvicorn.error:Started server process [7258]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:14:05[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+13/Mar/2022 18:14:54[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7258]
+[36mUSER_INFO:[39m13/Mar/2022 18:14:55[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:14:55[32m Application startup[39m
+INFO:uvicorn.error:Started server process [7530]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:14:55[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+13/Mar/2022 18:15:16[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7530]
+[36mUSER_INFO:[39m13/Mar/2022 18:15:17[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:15:17[32m Application startup[39m
+INFO:uvicorn.error:Started server process [7674]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:15:17[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+13/Mar/2022 18:15:56[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7674]
+[36mUSER_INFO:[39m13/Mar/2022 18:15:56[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:15:56[32m Application startup[39m
+INFO:uvicorn.error:Started server process [7774]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:15:56[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m13/Mar/2022 18:15:58[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7774]
+[36mUSER_INFO:[39m13/Mar/2022 18:15:59[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:15:59[32m Application startup[39m
+INFO:uvicorn.error:Started server process [7830]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:15:59[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m13/Mar/2022 18:16:15[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7830]
+[36mUSER_INFO:[39m13/Mar/2022 18:16:15[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:16:15[32m Application startup[39m
+INFO:uvicorn.error:Started server process [7963]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:16:15[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m13/Mar/2022 18:16:31[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7963]
+INFO:uvicorn.error:Stopping reloader process [6546]
+[36mUSER_INFO:[39m13/Mar/2022 18:16:34[32m Application startup[39m
+INFO:uvicorn.error:Will watch for changes in these directories: ['/home/djhunter67/dev/personal_proj/hunter_diy_garage']
+INFO:uvicorn.error:Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Started reloader process [8090] using statreload
+[36mUSER_INFO:[39m13/Mar/2022 18:16:35[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:16:35[32m Application startup[39m
+INFO:uvicorn.error:Started server process [8098]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:16:35[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m13/Mar/2022 18:17:32[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8098]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m13/Mar/2022 18:17:37[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:17:37[32m Application startup[39m
+INFO:uvicorn.error:Started server process [8372]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:17:37[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/venv/lib64/python3.10/site-packages/starlette/routing.py", line 621, in lifespan
+    async with self.lifespan_context(app):
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/venv/lib64/python3.10/site-packages/starlette/routing.py", line 521, in __aexit__
+    await self._router.shutdown()
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/venv/lib64/python3.10/site-packages/starlette/routing.py", line 610, in shutdown
+    handler()
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/main.py", line 20, in shutdown_event
+    with open("logs/log/logFile.log", type= ,mode="a") as log:
+TypeError: argument for open() given by name ('mode') and position (2)
+
+ERROR:uvicorn.error:Application shutdown failed. Exiting.
+INFO:uvicorn.error:Finished server process [8372]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m13/Mar/2022 18:17:54[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:17:54[32m Application startup[39m
+INFO:uvicorn.error:Started server process [8458]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:17:54[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/venv/lib64/python3.10/site-packages/starlette/routing.py", line 621, in lifespan
+    async with self.lifespan_context(app):
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/venv/lib64/python3.10/site-packages/starlette/routing.py", line 521, in __aexit__
+    await self._router.shutdown()
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/venv/lib64/python3.10/site-packages/starlette/routing.py", line 610, in shutdown
+    handler()
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/main.py", line 20, in shutdown_event
+    with open("logs/log/logFile.log", type="utf-8" ,mode="a") as log:
+TypeError: 'type' is an invalid keyword argument for open()
+
+ERROR:uvicorn.error:Application shutdown failed. Exiting.
+INFO:uvicorn.error:Finished server process [8458]
+[36mUSER_INFO:[39m13/Mar/2022 18:17:57[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:17:57[32m Application startup[39m
+INFO:uvicorn.error:Started server process [8515]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:17:57[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/venv/lib64/python3.10/site-packages/starlette/routing.py", line 621, in lifespan
+    async with self.lifespan_context(app):
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/venv/lib64/python3.10/site-packages/starlette/routing.py", line 521, in __aexit__
+    await self._router.shutdown()
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/venv/lib64/python3.10/site-packages/starlette/routing.py", line 610, in shutdown
+    handler()
+  File "/home/djhunter67/dev/personal_proj/hunter_diy_garage/main.py", line 20, in shutdown_event
+    with open("logs/log/logFile.log", encoding="utf-8" ,mode="a") as log:
+TypeError: 'type' is an invalid keyword argument for open()
+
+ERROR:uvicorn.error:Application shutdown failed. Exiting.
+INFO:uvicorn.error:Finished server process [8515]
+[36mUSER_INFO:[39m13/Mar/2022 18:18:33[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:18:33[32m Application startup[39m
+INFO:uvicorn.error:Started server process [8736]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:18:33[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m13/Mar/2022 18:18:49[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8736]
+[36mUSER_INFO:[39m13/Mar/2022 18:18:50[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:18:50[32m Application startup[39m
+INFO:uvicorn.error:Started server process [8822]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:18:50[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m13/Mar/2022 18:19:15[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8822]
+[36mUSER_INFO:[39m13/Mar/2022 18:19:15[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m13/Mar/2022 18:19:15[32m Application startup[39m
+INFO:uvicorn.error:Started server process [8940]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m13/Mar/2022 18:19:15[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:19:17[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8940]
+[36mUSER_INFO:[39m 13/Mar/2022 18:19:17[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m 13/Mar/2022 18:19:17[32m Application startup[39m
+INFO:uvicorn.error:Started server process [8973]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:19:17[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:26[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8973]
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:26[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:26[32m Application startup[39m
+INFO:uvicorn.error:Started server process [9332]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:26[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:30[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [9332]
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:31[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:31[32m Application startup[39m
+INFO:uvicorn.error:Started server process [9376]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:31[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:34[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [9376]
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:34[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:34[32m Application startup[39m
+INFO:uvicorn.error:Started server process [9421]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:34[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:44[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [9421]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:48[32m Application startup[39m
+Using selector: EpollSelector
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:48[32m Application startup[39m
+Started server process [9515]
+Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:48[32m Application startup[39m
+Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+Shutting down
+Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:23:48[33m Application shutdown[39m
+Application shutdown complete.
+Finished server process [9515]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m 13/Mar/2022 18:26:56[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m 13/Mar/2022 18:26:56[32m Application startup[39m
+INFO:uvicorn.error:Started server process [10839]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:26:56[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:26:58[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [10839]
+[36mUSER_INFO:[39m 13/Mar/2022 18:26:58[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m 13/Mar/2022 18:26:58[32m Application startup[39m
+INFO:uvicorn.error:Started server process [10901]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:26:58[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:27:07[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [10901]
+[36mUSER_INFO:[39m 13/Mar/2022 18:27:08[32m Application startup[39m
+DEBUG:asyncio:Using selector: EpollSelector
+[36mUSER_INFO:[39m 13/Mar/2022 18:27:08[32m Application startup[39m
+INFO:uvicorn.error:Started server process [10946]
+INFO:uvicorn.error:Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:27:08[32m Application startup[39m
+INFO:uvicorn.error:Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:28:39[33m Application shutdown[39m
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [10946]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m 13/Mar/2022 18:29:02[32m Application startup[39m
+13/Mar/2022 18:29:02 Using selector: EpollSelector
+[36mUSER_INFO:[39m 13/Mar/2022 18:29:02[32m Application startup[39m
+13/Mar/2022 18:29:02 Started server process [11456]
+13/Mar/2022 18:29:02 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:29:02[32m Application startup[39m
+13/Mar/2022 18:29:02 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:29:02 Shutting down
+13/Mar/2022 18:29:02 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:29:09[33m Application shutdown[39m
+13/Mar/2022 18:29:02 Application shutdown complete.
+13/Mar/2022 18:29:02 Finished server process [11456]
+[36mUSER_INFO:[39m 13/Mar/2022 18:29:10[32m Application startup[39m
+13/Mar/2022 18:29:10 Using selector: EpollSelector
+[36mUSER_INFO:[39m 13/Mar/2022 18:29:10[32m Application startup[39m
+13/Mar/2022 18:29:10 Started server process [11509]
+13/Mar/2022 18:29:10 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:29:10[32m Application startup[39m
+13/Mar/2022 18:29:10 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:29:10 Shutting down
+13/Mar/2022 18:29:10 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:00[33m Application shutdown[39m
+13/Mar/2022 18:29:10 Application shutdown complete.
+13/Mar/2022 18:29:10 Finished server process [11509]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:10[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:10[32m Application startup[39m
+13/Mar/2022 18:30:10 Started server process [11761]
+13/Mar/2022 18:30:10 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:10[32m Application startup[39m
+13/Mar/2022 18:30:10 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:30:10 Shutting down
+13/Mar/2022 18:30:10 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:12[33m Application shutdown[39m
+13/Mar/2022 18:30:10 Application shutdown complete.
+13/Mar/2022 18:30:10 Finished server process [11761]
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:13[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:13[32m Application startup[39m
+13/Mar/2022 18:30:13 Started server process [11821]
+13/Mar/2022 18:30:13 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:13[32m Application startup[39m
+13/Mar/2022 18:30:13 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:30:13 Shutting down
+13/Mar/2022 18:30:13 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:22[33m Application shutdown[39m
+13/Mar/2022 18:30:13 Application shutdown complete.
+13/Mar/2022 18:30:13 Finished server process [11821]
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:23[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:23[32m Application startup[39m
+13/Mar/2022 18:30:23 Started server process [11893]
+13/Mar/2022 18:30:23 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:23[32m Application startup[39m
+13/Mar/2022 18:30:23 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:30:23 Shutting down
+13/Mar/2022 18:30:23 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:24[33m Application shutdown[39m
+13/Mar/2022 18:30:23 Application shutdown complete.
+13/Mar/2022 18:30:23 Finished server process [11893]
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:25[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:25[32m Application startup[39m
+13/Mar/2022 18:30:25 Started server process [11931]
+13/Mar/2022 18:30:25 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:25[32m Application startup[39m
+13/Mar/2022 18:30:25 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:30:25 Shutting down
+13/Mar/2022 18:30:25 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:43[33m Application shutdown[39m
+13/Mar/2022 18:30:25 Application shutdown complete.
+13/Mar/2022 18:30:25 Finished server process [11931]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:46[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:46[32m Application startup[39m
+13/Mar/2022 18:30:46 Started server process [12070]
+13/Mar/2022 18:30:46 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:46[32m Application startup[39m
+13/Mar/2022 18:30:46 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:30:46 Shutting down
+13/Mar/2022 18:30:46 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:54[33m Application shutdown[39m
+13/Mar/2022 18:30:46 Application shutdown complete.
+13/Mar/2022 18:30:46 Finished server process [12070]
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:55[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:55[32m Application startup[39m
+13/Mar/2022 18:30:55 Started server process [12177]
+13/Mar/2022 18:30:55 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:55[32m Application startup[39m
+13/Mar/2022 18:30:55 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:30:55 Shutting down
+13/Mar/2022 18:30:55 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:55[33m Application shutdown[39m
+13/Mar/2022 18:30:55 Application shutdown complete.
+13/Mar/2022 18:30:55 Finished server process [12177]
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:56[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:56[32m Application startup[39m
+13/Mar/2022 18:30:56 Started server process [12204]
+13/Mar/2022 18:30:56 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:30:56[32m Application startup[39m
+13/Mar/2022 18:30:56 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:30:56 Shutting down
+13/Mar/2022 18:30:56 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:17[33m Application shutdown[39m
+13/Mar/2022 18:30:56 Application shutdown complete.
+13/Mar/2022 18:30:56 Finished server process [12204]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:22[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:22[32m Application startup[39m
+13/Mar/2022 18:31:22 Started server process [12353]
+13/Mar/2022 18:31:22 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:22[32m Application startup[39m
+13/Mar/2022 18:31:22 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:31:22 Shutting down
+13/Mar/2022 18:31:22 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:27[33m Application shutdown[39m
+13/Mar/2022 18:31:22 Application shutdown complete.
+13/Mar/2022 18:31:22 Finished server process [12353]
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:28[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:28[32m Application startup[39m
+13/Mar/2022 18:31:28 Started server process [12400]
+13/Mar/2022 18:31:28 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:28[32m Application startup[39m
+13/Mar/2022 18:31:28 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:31:28 Shutting down
+13/Mar/2022 18:31:28 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:31[33m Application shutdown[39m
+13/Mar/2022 18:31:28 Application shutdown complete.
+13/Mar/2022 18:31:28 Finished server process [12400]
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:31[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:31[32m Application startup[39m
+13/Mar/2022 18:31:31 Started server process [12460]
+13/Mar/2022 18:31:31 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:31[32m Application startup[39m
+13/Mar/2022 18:31:31 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:31:31 Shutting down
+13/Mar/2022 18:31:31 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:31:59[33m Application shutdown[39m
+13/Mar/2022 18:31:31 Application shutdown complete.
+13/Mar/2022 18:31:31 Finished server process [12460]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m 13/Mar/2022 18:32:01[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:32:01[32m Application startup[39m
+13/Mar/2022 18:32:01 Started server process [12625]
+13/Mar/2022 18:32:01 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:32:01[32m Application startup[39m
+13/Mar/2022 18:32:01 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:32:01 Shutting down
+13/Mar/2022 18:32:01 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:36:32[33m Application shutdown[39m
+13/Mar/2022 18:32:01 Application shutdown complete.
+13/Mar/2022 18:32:01 Finished server process [12625]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m 13/Mar/2022 18:36:48[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:36:48[32m Application startup[39m
+13/Mar/2022 18:36:48 Started server process [13038]
+13/Mar/2022 18:36:48 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:36:48[32m Application startup[39m
+13/Mar/2022 18:36:48 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:36:48 Shutting down
+13/Mar/2022 18:36:48 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:40:16[33m Application shutdown[39m
+13/Mar/2022 18:36:48 Application shutdown complete.
+13/Mar/2022 18:36:48 Finished server process [13038]
+[36mUSER_INFO:[39m 13/Mar/2022 18:40:16[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:40:16[32m Application startup[39m
+13/Mar/2022 18:40:16 Started server process [13284]
+13/Mar/2022 18:40:16 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:40:16[32m Application startup[39m
+13/Mar/2022 18:40:16 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:40:16 Shutting down
+13/Mar/2022 18:40:16 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:40:18[33m Application shutdown[39m
+13/Mar/2022 18:40:16 Application shutdown complete.
+13/Mar/2022 18:40:16 Finished server process [13284]
+[36mUSER_INFO:[39m 13/Mar/2022 18:40:19[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:40:19[32m Application startup[39m
+13/Mar/2022 18:40:19 Started server process [13328]
+13/Mar/2022 18:40:19 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:40:19[32m Application startup[39m
+13/Mar/2022 18:40:19 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:40:19 Shutting down
+13/Mar/2022 18:40:19 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:41:23[33m Application shutdown[39m
+13/Mar/2022 18:40:19 Application shutdown complete.
+13/Mar/2022 18:40:19 Finished server process [13328]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m 13/Mar/2022 18:47:58[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:47:58[32m Application startup[39m
+13/Mar/2022 18:47:58 Started server process [14130]
+13/Mar/2022 18:47:58 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:47:58[32m Application startup[39m
+13/Mar/2022 18:47:58 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:47:58 Shutting down
+13/Mar/2022 18:47:58 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:00[33m Application shutdown[39m
+13/Mar/2022 18:47:58 Application shutdown complete.
+13/Mar/2022 18:47:58 Finished server process [14130]
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:00[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:00[32m Application startup[39m
+13/Mar/2022 18:48:00 Started server process [14178]
+13/Mar/2022 18:48:00 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:00[32m Application startup[39m
+13/Mar/2022 18:48:00 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:48:00 Shutting down
+13/Mar/2022 18:48:00 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:04[33m Application shutdown[39m
+13/Mar/2022 18:48:00 Application shutdown complete.
+13/Mar/2022 18:48:00 Finished server process [14178]
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:04[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:04[32m Application startup[39m
+13/Mar/2022 18:48:04 Started server process [14208]
+13/Mar/2022 18:48:04 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:04[32m Application startup[39m
+13/Mar/2022 18:48:04 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:48:04 Shutting down
+13/Mar/2022 18:48:04 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:07[33m Application shutdown[39m
+13/Mar/2022 18:48:04 Application shutdown complete.
+13/Mar/2022 18:48:04 Finished server process [14208]
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:13[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:13[32m Application startup[39m
+13/Mar/2022 18:48:13 Started server process [14308]
+13/Mar/2022 18:48:13 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:13[32m Application startup[39m
+13/Mar/2022 18:48:13 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:48:13 Shutting down
+13/Mar/2022 18:48:13 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:16[33m Application shutdown[39m
+13/Mar/2022 18:48:13 Application shutdown complete.
+13/Mar/2022 18:48:13 Finished server process [14308]
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:17[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:17[32m Application startup[39m
+13/Mar/2022 18:48:17 Started server process [14353]
+13/Mar/2022 18:48:17 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:17[32m Application startup[39m
+13/Mar/2022 18:48:17 Application startup complete.
+WARNING:uvicorn.error:StatReload detected file change in 'main.py'. Reloading...
+13/Mar/2022 18:48:17 Shutting down
+13/Mar/2022 18:48:17 Waiting for application shutdown.
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:23[33m Application shutdown[39m
+13/Mar/2022 18:48:17 Application shutdown complete.
+13/Mar/2022 18:48:17 Finished server process [14353]
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:23[32m Application startup[39m
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:23[32m Application startup[39m
+13/Mar/2022 18:48:23 Started server process [14394]
+13/Mar/2022 18:48:23 Waiting for application startup.
+[36mUSER_INFO:[39m 13/Mar/2022 18:48:23[32m Application startup[39m
+13/Mar/2022 18:48:23 Application startup complete.
